@@ -1,3 +1,12 @@
+This is a React + TypeScript projects was create such as project on React course on Platzi.
+
+Topics learned:
+
+- Lazy load images Using Web API (intersection Observer).
+- Implicit and explicit typed.
+- Creation custom types on TypeScript.
+- Working with no-typed libraries.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
